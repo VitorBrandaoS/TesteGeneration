@@ -19,7 +19,7 @@ atividade e o escreva em seguida. Encontre após a maior pontuação e a apresen
 		para(i = 0; i < 5; i ++){
 			escreva("\nCandidato: ", i + 1, " Pontuação: ", num[i])
 		}
-		escreva("\nA maior pontuação foi: ", maior)
+		escreva("\nA maior pontuação foi: ", maior) // testando git
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -27,7 +27,7 @@ atividade e o escreva em seguida. Encontre após a maior pontuação e a apresen
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 496; 
+ * @POSICAO-CURSOR = 553; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
